@@ -1,0 +1,8 @@
+.env*
+data/
+tmp/
+docs/
+coverage/
+.git/
+*.log
+*.pdf
